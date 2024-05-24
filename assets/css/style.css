@@ -119,6 +119,16 @@ div.div-banner-img {
         grid-area: main;
     }
 
+    .btn-primary {
+        background-color: #E18AA7;
+        border-color: #E18AA7;
+    }
+
+    .btn-primary:hover {
+        background-color: #e05bd1;
+        border-color: #e05bd1;
+    }
+
     footer {
         grid-area: footer;
         display: flex;
