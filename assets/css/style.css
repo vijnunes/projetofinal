@@ -129,10 +129,17 @@ div.div-banner-img {
         border-color: #e05bd1;
     }
 
+    #minhaft {
+        display: grid;
+        justify-content: center;
+
+    }
+
     .perfil-img {
         max-width: 100%;
         max-height: 250px;
         object-fit: cover;
+
     }
 
     footer {
