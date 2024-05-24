@@ -129,6 +129,12 @@ div.div-banner-img {
         border-color: #e05bd1;
     }
 
+    .perfil-img {
+        max-width: 100%;
+        max-height: 250px;
+        object-fit: cover;
+    }
+
     footer {
         grid-area: footer;
         display: flex;
