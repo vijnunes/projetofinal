@@ -62,6 +62,22 @@ div.div-banner-img {
 .div-banner-img img {
     max-height: 100px;
     position: absolute;
+    bottom: -50%;
+    top: 20%;
+    animation-duration: 3s;
+    animation-name: aparecer-de-baixo;
+    animation-iteration-count: 2s forwards;
+}
+
+div.div-banner-sobre-mim-img {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.div-banner-sobre-mim-img img {
+    max-height: 100px;
+    position: absolute;
     top: 20%;
     animation-duration: 3s;
     animation-name: aparecer;
