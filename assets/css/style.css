@@ -65,8 +65,8 @@ div.div-banner-img {
     bottom: -50%;
     top: 20%;
     animation-duration: 3s;
-    animation-name: aparecer-de-baixo;
-    animation-iteration-count: 2s forwards;
+    animation-name: aparecer;
+    animation-iteration-count: 3s forwards;
 }
 
 div.div-banner-sobre-mim-img {
