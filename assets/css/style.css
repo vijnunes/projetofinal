@@ -79,9 +79,8 @@ div.div-banner-sobre-mim-img {
     max-height: 100px;
     position: absolute;
     top: 20%;
-    animation-duration: 3s;
+    animation-duration: 5s;
     animation-name: aparecer;
-    animation-iteration-count: infinite;
 }
 
 .wrapper {
