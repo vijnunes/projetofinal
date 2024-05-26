@@ -150,6 +150,12 @@ div.div-banner-sobre-mim-img {
 
     }
 
+    .perfil-sobre-mim-img {
+        max-width: 100%;
+        object-fit: cover;
+
+    }
+
     .perfil-img {
         max-width: 100%;
         max-height: 250px;
